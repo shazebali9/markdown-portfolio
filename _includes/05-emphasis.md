@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Hello, some things about me is that, I am **funny**, I **love playing basketball**, and the best thing about me is that I am **the hardest worker** if I want something done i'll get it done.

@@ -1,0 +1,1 @@
+Hello, some things about me is that, I am **funny**, I *love playing basketball*, and the best thing about me is that I am **the hardest worker** if I want something done i'll get it done.

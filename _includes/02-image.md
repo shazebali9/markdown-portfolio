@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Jimmy fighting](https://uproxx.com/wp-content/uploads/2022/03/spoelstra-butler.jpg?w=1024)
